@@ -1,0 +1,1 @@
+create table users(user_id integer, user_name varchar(40));
